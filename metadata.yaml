@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '37854'
     url: http://www.gutenberg.org/2009/agents/37854
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13061#Lippincott-s-Magazine-of-Popular-Literature-and-Science-Volume-15-No.-87-March-1875
 gutenberg_bookshelf: Lippincott's Magazine
 gutenberg_issued: '2004-07-31'
 gutenberg_type: Text
